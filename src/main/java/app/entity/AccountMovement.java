@@ -10,7 +10,7 @@ import cronapi.rest.security.CronappSecurity;
 
 
 /**
- * Classe que representa a tabela ACCOUNTMOVEMENT
+ * Classe que representa a tabela ACCOUNTMOVEMENT Junior
  * @generated
  */
 @Entity
